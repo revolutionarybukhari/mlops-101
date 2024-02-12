@@ -1,0 +1,2 @@
+This is a basic python project 
+all dependencies are in the requirements.txt file
